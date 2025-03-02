@@ -7,11 +7,11 @@ Install the required Python library before running:
 pip install scapy
 
 
-🎯 How to Run
+🎯 How to Run:
 Run the script with:
 python network_sniffer.py
 
-Stores packets in:
+Packets stores in:
 A .pcap file (captured_traffic.pcap) for Wireshark analysis.
 A text log file (captured_data.txt) with summary details.
 Stops sniffing gracefully and saves captured data when the user presses Ctrl+C.
