@@ -7,9 +7,9 @@ Install the required Python library before running:
 pip install scapy
 
 
-🎯 How to Run:
+🎯 How to 
 Run the script with:
-python network_sniffer.py
+python sniff anonmiously.py
 
 Packets stores in:
 A .pcap file (captured_traffic.pcap) for Wireshark analysis.
